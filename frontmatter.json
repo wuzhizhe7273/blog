@@ -51,6 +51,11 @@
           "type": "image"
         },
         {
+          "title": "Hero Image",
+          "name": "heroImage",
+          "type": "image"
+        },
+        {
           "title": "Is in draft",
           "name": "draft",
           "type": "draft"
