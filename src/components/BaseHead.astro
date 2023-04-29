@@ -41,5 +41,8 @@ const { title, description, image = '/placeholder-social.jpg' } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
+
+<!-- google search console 所有权验证 -->
+<meta name="google-site-verification" content="YbwQDMDN0NPsRAWSgBVr36t-26ackfYHQ6_wy22NRvQ" />
 <!-- sitemap配置 -->
 <link rel="sitemap" href="/sitemap-index.xml">
