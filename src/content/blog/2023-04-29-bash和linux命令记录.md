@@ -7,6 +7,7 @@ preview: /image/gwdezi8t.bmp
 draft: false
 tags: []
 categories: []
+uniqueId: 29864439-7f56-41ba-9c23-b6941f1223d7
 ---
 # bash和linux命令记录
 

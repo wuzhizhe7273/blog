@@ -1,11 +1,27 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.hideFm": true,
+  "frontMatter.content.hideFmMessage":"Use the editor panel to make front matter changes",
+  "frontMatter.content.placeholders": [
+    {
+      "id": "uniqueId",
+      "script": "./.frontmatter/scripts/getuuid.js",
+      "command": "node"
+    }
+  ],  
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
       "pageBundle": false,
       "previewPath": "blog",
       "fields": [
+        {
+          "title": "Unique ID",
+          "name": "uniqueId",
+          "type": "string",
+          "single": "true",
+          "default": "{{uniqueId}}"
+        },
         {
           "title": "Title",
           "name": "title",
