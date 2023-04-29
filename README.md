@@ -6,3 +6,6 @@
 
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzhizhe7273&show_icons=true&theme=tokyonight)
+
+## 备忘
+`cbt.sh` 提交博客的脚本
