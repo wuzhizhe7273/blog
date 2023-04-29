@@ -64,14 +64,5 @@
       "title": "blog",
       "path": "[[workspace]]/src/content/blog"
     }
-  ],
-  // 自定义action
-  "frontMatter.custom.scripts": [
-    {
-      "title": "Publish to Repo",
-      "id": "publush-to-repo",
-      "script": "./cbt.sh",
-      "command": "bash"
-    }
   ]
 }
