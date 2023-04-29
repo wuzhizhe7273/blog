@@ -8,4 +8,7 @@
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzhizhe7273&show_icons=true&theme=tokyonight)
 
 ## 备忘
+
 `cbt.sh` 提交博客的脚本
+
+master是写文章的主分支,dev加功能和页面的开发分支
