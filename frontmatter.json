@@ -1,14 +1,14 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.content.hideFm": true,
-  "frontMatter.content.hideFmMessage":"Use the editor panel to make front matter changes",
+  "frontMatter.content.hideFmMessage": "Use the editor panel to make front matter changes",
   "frontMatter.content.placeholders": [
     {
       "id": "uniqueId",
       "script": "./.frontmatter/scripts/getuuid.js",
       "command": "node"
     }
-  ],  
+  ],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -85,5 +85,6 @@
       "title": "blog",
       "path": "[[workspace]]/src/content/blog"
     }
-  ]
+  ],
+  "frontMatter.dashboard.openOnStart": false
 }
