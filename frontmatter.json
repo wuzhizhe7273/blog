@@ -96,7 +96,8 @@
       "title": "Push",
       "id": "push-to-repo",
       "script": "./cbt.sh",
-      "command": "bash"
+      "command": "bash",
+      "output": "editor"
     }
   ]
 }
