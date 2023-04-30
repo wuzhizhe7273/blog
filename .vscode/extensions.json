@@ -1,7 +1,11 @@
 {
   "recommendations": [
     "astro-build.astro-vscode",
-    "mhutchie.git-graph"
+    "mhutchie.git-graph",
+    "redhat.vscode-xml",
+    "visualstudioexptteam.vscodeintellicode",
+    "eliostruyf.vscode-front-matter",
+    "ms-ceintl.vscode-language-pack-zh-hans"
   ],
   "unwantedRecommendations": []
 }
