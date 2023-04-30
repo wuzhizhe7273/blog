@@ -27,3 +27,9 @@ heroImage: /image/6709aedbf58fe61c2079ac1ec048ab84ccdac831.jpg@942w_614h_progres
 * `git config --global user.name "xxxxxxx"` 设置用户名(使用远程需要)
 * `git config --global user.email "xxxxxxxx"` 设置邮箱(使用远程需要)
 * `git reset --hard xxxxxx` 回滚
+
+## conda
+
+~~~bash
+conda config --set auto_activate_base false #关闭自动激活
+~~~
