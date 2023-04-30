@@ -2,9 +2,9 @@
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.content.hideFm": true,
   "frontMatter.content.hideFmMessage": "Use the editor panel to make front matter changes",
-  // 启用git支持
-  "frontMatter.git.enabled": true,
-  "frontMatter.git.commitMessage": "{{now}}",
+  // // 启用git支持
+  // "frontMatter.git.enabled": true,
+  // "frontMatter.git.commitMessage": "{{now}}",
   // filed配置
   "frontMatter.content.placeholders": [
     {
@@ -90,14 +90,14 @@
       "path": "[[workspace]]/src/content/blog"
     }
   ],
-  "frontMatter.dashboard.openOnStart": false,
-  "frontMatter.custom.scripts": [
-    {
-      "title": "Push",
-      "id": "push-to-repo",
-      "script": "./cbt.sh",
-      "command": "bash",
-      "output": "editor"
-    }
-  ]
+  "frontMatter.dashboard.openOnStart": false
+  // "frontMatter.custom.scripts": [
+  //   {
+  //     "title": "Push",
+  //     "id": "push-to-repo",
+  //     "script": "./cbt.sh",
+  //     "command": "bash",
+  //     "output": "editor"
+  //   }
+  // ]
 }
