@@ -2,12 +2,13 @@
 title: bash和linux命令记录
 description: ""
 pubDate: 2023-04-29T08:43:00.479Z
-updatedDate: 2023-04-29T08:43:00.481Z
+updatedDate: 2023-04-30T06:50:53.365Z
 preview: /image/gwdezi8t.bmp
 draft: false
 tags: []
 categories: []
 uniqueId: 29864439-7f56-41ba-9c23-b6941f1223d7
+heroImage: /image/6709aedbf58fe61c2079ac1ec048ab84ccdac831.jpg@942w_614h_progressive.webp
 ---
 # bash和linux命令记录
 
