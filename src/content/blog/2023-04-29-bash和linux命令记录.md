@@ -25,3 +25,4 @@ uniqueId: 29864439-7f56-41ba-9c23-b6941f1223d7
 * `ssh-keygen -t -rsa -C "email@xx.xxx"` 生成ssh密钥
 * `git config --global user.name "xxxxxxx"` 设置用户名(使用远程需要)
 * `git config --global user.email "xxxxxxxx"` 设置邮箱(使用远程需要)
+* `git reset --hard xxxxxx` 回滚
