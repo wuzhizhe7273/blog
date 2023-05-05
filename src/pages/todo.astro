@@ -1,0 +1,24 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<BaseHead title={"待办"} description={"我还没做完的事"} />
+	</head>
+	<body>
+		<Header title={"待办"} />
+		<main>
+            <p>给博客添加latex公式支持</p>
+            <p>网课mit18.065</p>
+            <p>读书《ON Java》</p>
+            <p>rust项目实战xdiff</p>
+			<p>重写博客</p>
+		</main>
+		<Footer />
+	</body>
+</html>

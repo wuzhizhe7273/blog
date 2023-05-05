@@ -78,6 +78,8 @@
   "frontMatter.content.publicFolder": "public",
   "frontMatter.preview.host": "http://localhost:3000",
   "frontMatter.taxonomy.tags": [
+    "math",
+    "rust",
     "test"
   ],
   "frontMatter.taxonomy.categories": [

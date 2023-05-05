@@ -3,6 +3,9 @@ import mdx from '@astrojs/mdx';
 
 import remarkGfm from 'remark-gfm';
 import remarkToc from 'remark-toc';
+// 数学支持
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
@@ -13,6 +16,10 @@ export default defineConfig({
 		remarkPlugins:[
 			remarkGfm,
 			remarkToc,
+			remarkMath,
 		],
+		rehypePlugins:[
+			rehypeKatex
+		]
 	}
 });
