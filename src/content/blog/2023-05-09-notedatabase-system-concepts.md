@@ -26,4 +26,4 @@ categories: []
 * chapter4: sql语言更多细节
 * chapter5: sql的高级主题(编程语言,函数,过程,触发器等)
 
-### chapter 2
+### chapter 2: Introduction to The Relational Model
