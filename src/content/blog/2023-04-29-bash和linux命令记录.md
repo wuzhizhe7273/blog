@@ -2,7 +2,7 @@
 title: bash和linux命令记录
 description: ""
 pubDate: 2023-04-29T08:43:00.479Z
-updatedDate: 2023-04-30T06:50:53.365Z
+updatedDate: 2023-05-10T09:15:20.172Z
 preview: /image/gwdezi8t.bmp
 draft: false
 tags: []
