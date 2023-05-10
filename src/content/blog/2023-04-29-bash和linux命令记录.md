@@ -27,6 +27,8 @@ heroImage: /image/6709aedbf58fe61c2079ac1ec048ab84ccdac831.jpg@942w_614h_progres
 * `git config --global user.name "xxxxxxx"` 设置用户名(使用远程需要)
 * `git config --global user.email "xxxxxxxx"` 设置邮箱(使用远程需要)
 * `git reset --hard xxxxxx` 回滚
+*  git config --global --unset http.proxy 取消http代理
+*  git config --global --unset https.proxy 取消https代理
 
 ## conda
 
